@@ -1,0 +1,160 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/664355e1e5fc3b7947796a73.664355e2e5fc3b7947796a76.fB8wYVM.hcp.png");
+
+@font-face {
+  font-family: "JejuHallasan-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/JejuHallasan-Regular.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.align-self-flex-center {
+  align-self: flex-center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.ellipse-9 {
+  height: 190px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.rectangle-67 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--black);
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 150px;
+  width: 198px;
+}
+
+.group-24 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-60.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1080px;
+  left: 0;
+  min-width: 1920px;
+  padding: 60px 771px;
+  position: absolute;
+  top: 0;
+}
+
+.rectangle-61 {
+  height: 200px;
+  object-fit: cover;
+  width: 350px;
+}
+
+.group-27 {
+  align-items: flex-start;
+  display: flex;
+  height: 300px;
+  left: 575px;
+  min-width: 700px;
+  position: absolute;
+  top: 438px;
+}
+
+.flex-col {
+  align-items: flex-end;
+  background-color: var(--botticelli);
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  min-height: 300px;
+  padding: 21px 59px;
+  width: 700px;
+}
+
+.id {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 61px;
+  width: 61px;
+}
+
+.dbfldk20jgmailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 37px;
+  white-space: nowrap;
+}
+
+.pw {
+  -webkit-text-stroke: 1px var(--black);
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 52px;
+  width: 64px;
+}
+
+.rectangle-11 {
+  background: linear-gradient(180deg, rgb(153, 153, 153) 100%);
+  background-color: #f5fbf8;
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 400px;
+  cursor: pointer;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.log-in {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 30px;
+  font-weight: 400;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 152px;
+}
+
+.group-25 {
+  height: 70px;
+  width: 250px;
+}

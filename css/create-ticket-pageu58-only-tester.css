@@ -1,0 +1,26 @@
+/* screen - create-ticket-pageu58-only-tester */
+
+.create-ticket-pageu58-only-tester {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(76, 180, 240) 0%, rgb(245.52, 251.81, 248.41) 100%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  gap: 31px;
+  height: 1080px;
+  min-width: 1740px;
+  padding: 13px 27px;
+}
+
+.create-ticket-pageu58-only-tester .group-45 {
+  height: 972px;
+  margin-left: 73px;
+  margin-top: 61px;
+  width: 1460px;
+}
+
+.create-ticket-pageu58-only-tester .ellipse-13 {
+  cursor: pointer;
+  height: 122px;
+  object-fit: cover;
+  width: 122px;
+}

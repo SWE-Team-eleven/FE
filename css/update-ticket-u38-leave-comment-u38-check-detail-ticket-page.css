@@ -1,0 +1,233 @@
+/* screen - update-ticket-u38-leave-comment-u38-check-detail-ticket-page */
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1924px;
+  overflow-x: hidden;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .overlap-group1 {
+  height: 1080px;
+  position: relative;
+  width: 1934px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .overlap-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1924px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-137 {
+  background-color: var(--alto);
+  border: 3px solid;
+  border-color: var(--black);
+  height: 757px;
+  left: 38px;
+  position: absolute;
+  top: 280px;
+  width: 1801px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-136 {
+  background: linear-gradient(180deg, rgb(76, 180, 240) 0%, rgb(245.52, 251.81, 248.41) 100%);
+  border: 0px none;
+  height: 1080px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-137-1 {
+  height: 227px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-153 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 450px;
+  left: 877px;
+  position: absolute;
+  top: 486px;
+  width: 15px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-126 {
+  background-color: var(--black);
+  border: 1px solid;
+  height: 15px;
+  left: 876px;
+  position: absolute;
+  top: 508px;
+  width: 15px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-54 {
+  background-color: #cdf5ad3b;
+  height: 601px;
+  left: 82px;
+  position: absolute;
+  top: 411px;
+  width: 834px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text-2 {
+  left: 118px;
+  position: absolute;
+  top: 525px;
+  width: 241px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .ticket {
+  left: 116px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 432px;
+  width: 260px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text-3 {
+  left: 118px;
+  position: absolute;
+  top: 486px;
+  width: 94px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .line-8 {
+  height: 1px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 470px;
+  width: 793px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text-4 {
+  left: 116px;
+  position: absolute;
+  top: 565px;
+  width: 110px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .frame-8 {
+  background-color: #f5f5f5;
+  height: 121px;
+  left: 129px;
+  padding: 3px 31px;
+  top: 647px;
+  width: 717px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text-5 {
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .frame-9 {
+  background-color: var(--white);
+  height: 135px;
+  left: 134px;
+  padding: 0 25px;
+  top: 794px;
+  width: 706px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text-6 {
+  margin-top: -1px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .rectangle-50 {
+  height: 41px;
+  left: 78px;
+  position: absolute;
+  top: 303px;
+  width: 981px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text-7 {
+  left: 161px;
+  position: absolute;
+  top: 312px;
+  white-space: nowrap;
+  width: 723px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .update-ticket-button {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  height: 107px;
+  justify-content: flex-end;
+  left: 1387px;
+  min-width: 385px;
+  padding: 31.2px 56px;
+  position: absolute;
+  top: 841px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 42px;
+  text-align: center;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .leave-comment-button {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 50px;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  left: 626px;
+  min-width: 214px;
+  padding: 6.5px 13.6px;
+  position: absolute;
+  top: 948px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .leave-comment {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 187px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .ellipse-24 {
+  cursor: pointer;
+  height: 122px;
+  left: 1753px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 122px;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .frame {
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+}
+
+.update-ticket-u38-leave-comment-u38-check-detail-ticket-page .text {
+  letter-spacing: 0;
+  line-height: normal;
+}

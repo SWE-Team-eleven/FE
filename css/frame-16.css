@@ -1,0 +1,98 @@
+/* screen - frame-16 */
+
+.frame-16 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.frame-16 .overlap-group4 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.frame-16 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 61px;
+  margin-top: 20px;
+  min-width: 568px;
+}
+
+.frame-16 .overlap-group3 {
+  align-items: flex-start;
+  background-color: #ffffff80;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 500px;
+  padding: 6px 1px;
+}
+
+.frame-16 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  height: 55px;
+  margin-top: 8px;
+  min-width: 579px;
+}
+
+.frame-16 .overlap-group2 {
+  align-items: flex-start;
+  background-color: #f7fafc75;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 53px;
+  min-width: 500px;
+  padding: 2px 9px;
+}
+
+.frame-16 .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 37px;
+  white-space: nowrap;
+}
+
+.frame-16 .group-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 63px;
+  margin-left: 7.0px;
+  margin-top: 35px;
+  min-width: 563px;
+}
+
+.frame-16 .group-26 {
+  align-items: flex-start;
+  display: flex;
+  height: 79px;
+  min-width: 250px;
+}
+
+.frame-16 .overlap-group {
+  height: 78px;
+  position: relative;
+  width: 250px;
+}
+
+.frame-16 .software-engineering {
+  color: var(--black);
+  font-family: var(--font-family-jejuhallasan-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  width: 1032px;
+}

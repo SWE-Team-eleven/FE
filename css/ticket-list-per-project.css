@@ -1,0 +1,213 @@
+/* screen - ticket-list-per-project */
+
+.ticket-list-per-project {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-65.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 119px;
+  height: 1208px;
+  min-width: 1920px;
+  padding: 25px 38px;
+}
+
+.ticket-list-per-project .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  margin-top: 15px;
+  min-height: 1058px;
+  width: 800px;
+}
+
+.ticket-list-per-project .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 138px;
+  min-width: 798px;
+  padding: 25px 201px;
+}
+
+.ticket-list-per-project .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 85px;
+  min-width: 374px;
+  text-align: center;
+}
+
+.ticket-list-per-project .overlap-group {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 138px;
+  margin-top: 53px;
+  min-width: 798px;
+  padding: 25px 124px;
+}
+
+.ticket-list-per-project .assigned-ticket {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 85px;
+  min-width: 528px;
+  text-align: center;
+}
+
+.ticket-list-per-project .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 138px;
+  margin-top: 42px;
+  min-width: 798px;
+  padding: 25px 126px;
+}
+
+.ticket-list-per-project .resolved-ticket {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 85px;
+  min-width: 525px;
+  text-align: center;
+}
+
+.ticket-list-per-project .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 138px;
+  margin-top: 42px;
+  min-width: 798px;
+  padding: 25px 109px;
+}
+
+.ticket-list-per-project .reopened-ticket {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 85px;
+  min-width: 559px;
+  text-align: center;
+}
+
+.ticket-list-per-project .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 138px;
+  margin-top: 51px;
+  min-width: 798px;
+  padding: 25px 161px;
+}
+
+.ticket-list-per-project .closed-ticket {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 85px;
+  min-width: 454px;
+  text-align: center;
+}
+
+.ticket-list-per-project .overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 138px;
+  margin-top: 42px;
+  min-width: 798px;
+  padding: 25px 236px;
+}
+
+.ticket-list-per-project .all-ticket {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 85px;
+  min-width: 304px;
+  text-align: center;
+}
+
+.ticket-list-per-project .overlap-group8 {
+  height: 1055px;
+  position: relative;
+  width: 866px;
+}
+
+.ticket-list-per-project .overlap-group7 {
+  height: 1055px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 866px;
+}
+
+.ticket-list-per-project .group-41 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 841px;
+  left: 0;
+  min-width: 866px;
+  position: absolute;
+  top: 214px;
+}
+
+.ticket-list-per-project .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/group-40.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 841px;
+  min-width: 864px;
+  padding: 14.4px 33px;
+}
+
+.ticket-list-per-project .ticket-list {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 127px;
+  width: 630px;
+}
+
+.ticket-list-per-project .create-ticket-component {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 236px;
+  min-height: 250px;
+  position: absolute;
+  top: 0;
+  width: 405px;
+}
+
+.ticket-list-per-project .rectangle-127 {
+  height: 120px;
+  margin-right: 7.0px;
+  width: 160px;
+}
+
+.ticket-list-per-project .create-ticket {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(102, 102, 102) 100%);
+  background-clip: text;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 119px;
+  text-align: center;
+  text-fill-color: transparent;
+  width: 405px;
+}
+
+.ticket-list-per-project .ellipse-23 {
+  cursor: pointer;
+  height: 122px;
+  left: 663px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 122px;
+}

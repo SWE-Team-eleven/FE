@@ -1,0 +1,577 @@
+/* screen - ticket-statics */
+
+.ticket-statics {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-170.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  min-height: 1080px;
+  padding: 14px 30px;
+  width: 1920px;
+}
+
+.ticket-statics .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 275px;
+  min-width: 1850px;
+}
+
+.ticket-statics .rectangle-171 {
+  cursor: pointer;
+  height: 183px;
+  width: 320px;
+}
+
+.ticket-statics .title {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 90px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 70.0px;
+  margin-left: 104px;
+  min-height: 109px;
+  min-width: 579px;
+}
+
+.ticket-statics .overlap-group8 {
+  align-self: flex-end;
+  height: 250px;
+  margin-left: 344px;
+  position: relative;
+  width: 503px;
+}
+
+.ticket-statics .ellipse-23 {
+  cursor: pointer;
+  height: 122px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 122px;
+}
+
+.ticket-statics .create-ticket-component {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  min-height: 250px;
+  position: absolute;
+  top: 0;
+  width: 405px;
+}
+
+.ticket-statics .rectangle-127 {
+  height: 120px;
+  margin-right: 7.0px;
+  width: 160px;
+}
+
+.ticket-statics .create-ticket {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(102, 102, 102) 100%);
+  background-clip: text;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 119px;
+  text-align: center;
+  text-fill-color: transparent;
+  width: 405px;
+}
+
+.ticket-statics .chart-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  min-width: 1812px;
+}
+
+.ticket-statics .chart {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 533px;
+  padding: 0 35px;
+  width: 882px;
+}
+
+.ticket-statics .overlap-group7 {
+  height: 405px;
+  position: relative;
+  width: 785px;
+}
+
+.ticket-statics .vector {
+  height: 405px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 756px;
+}
+
+.ticket-statics .group {
+  align-items: flex-end;
+  display: flex;
+  gap: 29px;
+  height: 325px;
+  left: 124px;
+  min-width: 661px;
+  position: absolute;
+  top: 44px;
+}
+
+.ticket-statics .group-container {
+  height: 325px;
+  position: relative;
+  width: 517px;
+}
+
+.ticket-statics .group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 90px;
+  height: 325px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 517px;
+  position: absolute;
+  top: 0;
+}
+
+.ticket-statics .group-container-1 {
+  gap: 151px;
+  margin-top: 12.83px;
+  min-height: 207px;
+  width: 175px;
+}
+
+.ticket-statics .group-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 763px;
+  height: 36px;
+  min-width: 94px;
+}
+
+.ticket-statics .new {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  text-align: right;
+  width: 35px;
+}
+
+.ticket-statics .vector-3 {
+  align-self: flex-end;
+  height: 19px;
+  margin-bottom: -11447.0px;
+  width: 49px;
+}
+
+.ticket-statics .group-5 {
+  align-items: flex-end;
+  display: flex;
+  gap: 763px;
+  height: 20px;
+  min-width: 136px;
+}
+
+.ticket-statics .assigned {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  text-align: right;
+  width: 69px;
+}
+
+.ticket-statics .vector-4 {
+  height: 9px;
+  margin-bottom: -11443.89px;
+  width: 56px;
+}
+
+.ticket-statics .group-container-2 {
+  align-self: flex-end;
+  margin-bottom: 0;
+  min-height: 325px;
+  width: 255px;
+}
+
+.ticket-statics .group-6 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 646px;
+  height: 38px;
+  justify-content: flex-end;
+  margin-right: 29.95px;
+  min-width: 110px;
+}
+
+.ticket-statics .closed {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0;
+  min-height: 20px;
+  width: 53px;
+}
+
+.ticket-statics .vector-5 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -11447.0px;
+  width: 46px;
+}
+
+.ticket-statics .group-7 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  gap: 619px;
+  height: 20px;
+  justify-content: flex-end;
+  margin-top: 128px;
+  min-width: 137px;
+}
+
+.ticket-statics .resolved {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 0;
+  min-height: 20px;
+  width: 69px;
+}
+
+.ticket-statics .vector-6 {
+  height: 4px;
+  margin-bottom: -11443.89px;
+  width: 57px;
+}
+
+.ticket-statics .group-8 {
+  align-items: flex-end;
+  display: flex;
+  gap: 633px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-top: 111px;
+  min-width: 123px;
+}
+
+.ticket-statics .reopened {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 0;
+  min-height: 20px;
+  width: 76px;
+}
+
+.ticket-statics .vector-7 {
+  height: 25px;
+  margin-bottom: -11443.89px;
+  width: 36px;
+}
+
+.ticket-statics .group-2 {
+  height: 279px;
+  left: 125px;
+  position: absolute;
+  top: 18px;
+  width: 259px;
+}
+
+.ticket-statics .group-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 179px;
+  min-height: 150px;
+  position: absolute;
+  top: 81px;
+  width: 154px;
+}
+
+.ticket-statics .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 105px;
+  margin-right: 0;
+  min-width: 154px;
+}
+
+.ticket-statics .number-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 59px;
+  min-height: 100px;
+  width: 48px;
+}
+
+.ticket-statics .number {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  text-align: center;
+  width: 27px;
+}
+
+.ticket-statics .number-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  text-align: center;
+  width: 30px;
+}
+
+.ticket-statics .number-2 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 46px;
+  min-height: 20px;
+  text-align: center;
+  width: 30px;
+}
+
+.ticket-statics .number-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 14.38px;
+  min-height: 20px;
+  text-align: center;
+  width: 30px;
+}
+
+.ticket-statics .number-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 6.55px;
+  min-height: 20px;
+  text-align: center;
+  width: 30px;
+}
+
+.ticket-statics .overlap-group-container {
+  height: 157px;
+  margin-bottom: 27.46px;
+  position: relative;
+  width: 115px;
+}
+
+.ticket-statics .overlap-group {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.ticket-statics .vector-1 {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 115px;
+}
+
+.ticket-statics .vector-2 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.ticket-statics .new-1 {
+  left: 29px;
+  position: absolute;
+  top: 0;
+}
+
+.ticket-statics .overlap-group1 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 115px;
+}
+
+.ticket-statics .overlap-group2 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 62px;
+  width: 115px;
+}
+
+.ticket-statics .reopened-1 {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.ticket-statics .overlap-group3 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 93px;
+  width: 115px;
+}
+
+.ticket-statics .overlap-group4 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 124px;
+  width: 115px;
+}
+
+.ticket-statics .closed-1 {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.ticket-statics .group-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 84px;
+  height: 36px;
+  min-width: 94px;
+}
+
+.ticket-statics .vector-8 {
+  align-self: flex-end;
+  height: 19px;
+  margin-bottom: -11447.0px;
+  margin-left: -133px;
+  width: 49px;
+}
+
+.ticket-statics .new-2 {
+  min-height: 20px;
+  text-align: right;
+}
+
+.ticket-statics .group-10 {
+  align-items: flex-end;
+  display: flex;
+  gap: 42px;
+  height: 20px;
+  min-width: 136px;
+}
+
+.ticket-statics .vector-9 {
+  height: 9px;
+  margin-bottom: -11443.89px;
+  margin-left: -98px;
+  width: 56px;
+}
+
+.ticket-statics .group-11 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 185px;
+  height: 38px;
+  margin-right: 29.95px;
+  min-width: 110px;
+}
+
+.ticket-statics .vector-10 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -11447.0px;
+  margin-left: -176px;
+  width: 46px;
+}
+
+.ticket-statics .group-12 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  gap: 185px;
+  height: 20px;
+  margin-top: 128px;
+  min-width: 137px;
+}
+
+.ticket-statics .vector-11 {
+  height: 4px;
+  margin-bottom: -11443.89px;
+  margin-left: -176px;
+  width: 57px;
+}
+
+.ticket-statics .group-13 {
+  align-items: flex-end;
+  display: flex;
+  gap: 185px;
+  height: 28px;
+  margin-top: 111px;
+  min-width: 123px;
+}
+
+.ticket-statics .vector-12 {
+  height: 25px;
+  margin-bottom: -11443.89px;
+  margin-left: -176px;
+  width: 36px;
+}
+
+.ticket-statics .new-3 {
+  left: 29px;
+  position: absolute;
+  top: 0;
+}
+
+.ticket-statics .assigned-3 {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.ticket-statics .group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.ticket-statics .new-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  width: 35px;
+}
+
+.ticket-statics .resolved-3 {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}

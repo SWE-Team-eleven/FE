@@ -1,0 +1,115 @@
+/* screen - main */
+
+.main {
+  align-items: flex-start;
+  display: flex;
+  height: 1064px;
+  min-width: 1920px;
+}
+
+.main .overlap-group {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(76, 180, 240) 0%, rgb(245.52, 251.81, 248.41) 100%);
+  border: 2px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  min-height: 1080px;
+  padding: 75px 507px;
+  width: 1920px;
+}
+
+.main .rectangle-68 {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 400px;
+  margin-top: 10px;
+  width: 900px;
+}
+
+.main .overlap-group2 {
+  height: 197px;
+  margin-left: 49.0px;
+  margin-top: 50px;
+  position: relative;
+  width: 209px;
+}
+
+.main .role-name {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 27px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 152px;
+  width: 194px;
+}
+
+.main .group-26 {
+  cursor: pointer;
+  height: 63px;
+  margin-left: 38.0px;
+  margin-top: 20px;
+  width: 190px;
+}
+
+.main .overlap-group-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 69px;
+  margin-right: 35px;
+  margin-top: 89px;
+  min-width: 755px;
+}
+
+.main .overlap-group3 {
+  height: 101px;
+  position: relative;
+  width: 358px;
+}
+
+.main .rectangle-70 {
+  cursor: pointer;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.main .title {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 311px;
+}
+
+.main .overlap-group1 {
+  height: 101px;
+  position: relative;
+  width: 328px;
+}
+
+.main .rectangle-132 {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.main .for-devloper {
+  cursor: pointer;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 311px;
+}
