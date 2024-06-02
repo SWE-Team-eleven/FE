@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class UserScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
         appBar: AppBar(
           title: Text('User Page'),
@@ -32,7 +33,7 @@ class UserScreen extends StatelessWidget {
                 Column(
                   children: [
                     SizedBox(
-                      height: 200,
+                      height: 100,
                     ),
                     Container(
                       width: 1000,
@@ -84,7 +85,7 @@ class UserScreen extends StatelessWidget {
                     )
                   ],
                 ),
-                SizedBox(width: 150),
+                SizedBox(width: 50),
                 Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
